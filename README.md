@@ -81,13 +81,56 @@
 
 ────────────────────────────
 
-🛠 Tech Stack
+<p align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120">
+    <!-- Background Circle -->
+    <circle
+      cx="60"
+      cy="60"
+      r="50"
+      fill="none"
+      stroke="#2d3748"
+      stroke-width="10"
+    />
 
-Java  Python  JavaScript
-React  Node.js  Express
-MongoDB  Docker  Jenkins
-Git  GitHub  Linux
-YOLOv11  Django  Flask
+    <!-- Progress Circle (90%) -->
+    <circle
+      cx="60"
+      cy="60"
+      r="50"
+      fill="none"
+      stroke="#00E5FF"
+      stroke-width="10"
+      stroke-linecap="round"
+      stroke-dasharray="314"
+      stroke-dashoffset="31"
+      transform="rotate(-90 60 60)"
+    />
+
+    <!-- Percentage -->
+    <text
+      x="60"
+      y="58"
+      text-anchor="middle"
+      fill="white"
+      font-size="20"
+      font-weight="bold"
+    >
+      90%
+    </text>
+
+    <!-- Skill Name -->
+    <text
+      x="60"
+      y="82"
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-size="12"
+    >
+      Java
+    </text>
+  </svg>
+</p>
 
 ────────────────────────────
 
