@@ -9,35 +9,37 @@
 </p>
 
 ────────────────────────────
+<h2 align="center">🚀 About Me</h2>
 
-<h2 align="center">✨ About Me ✨</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-B.Tech%20CSE%20Student-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Full%20Stack%20Developer-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️-DevOps%20Learner-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML%20Enthusiast-E91E63?style=for-the-badge" />
+</p>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react" width="65"/>
-
-### 💻 Full Stack Developer
-
-⚡ React  
-🟢 Node.js  
-🍃 MongoDB  
-🚀 Express
+### 💻 Full Stack Development
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 🎨 HTML • CSS • JavaScript
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=docker" width="65"/>
-
-### ☁️ DevOps
-
-🐳 Docker  
-⚙️ Jenkins  
-☸️ Kubernetes  
-☁️ AWS
+### ☁️ DevOps Journey
+- 🐳 Docker
+- ⚙️ Jenkins
+- ☸️ Kubernetes
+- ☁️ AWS
+- 🐧 Linux
 
 </td>
 
@@ -45,36 +47,37 @@
 
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
-
-### 🤖 AI & ML
-
-🧠 YOLOv11  
-🔥 Flask  
-📊 Python  
-🎯 Computer Vision
+### 🤖 AI & Machine Learning
+- 🧠 YOLOv11
+- 👁️ Computer Vision
+- 🐍 Python
+- 🔥 Flask
+- 📊 Deep Learning
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=java" width="65"/>
-
-### 🎓 Education
-
-🏫 KIET Group of Institutions
-
-💡 B.Tech CSE
-
-⚡ DSA Enthusiast
+### 🎯 Currently
+- 🎓 B.Tech CSE @ KIET
+- 💡 Solving DSA Problems
+- 🌱 Learning New Technologies
+- 🚀 Building Real-World Projects
+- 🤝 Open Source Contributor
 
 </td>
 
 </tr>
 
 </table>
+
+<p align="center">
+
+✨ <b>"Code • Learn • Build • Repeat"</b> ✨
+
+</p>
 
 ────────────────────────────
 
