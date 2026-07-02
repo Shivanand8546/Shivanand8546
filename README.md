@@ -10,47 +10,70 @@
 
 ────────────────────────────
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">✨ About Me ✨</h2>
 
-<table align="center">
+<table>
 <tr>
-<td>
 
-🎓 **B.Tech CSE Student**  
-📍 KIET Group of Institutions
+<td align="center" width="50%">
+
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+
+### 💻 Full Stack Developer
+
+⚡ React  
+🟢 Node.js  
+🍃 MongoDB  
+🚀 Express
 
 </td>
-<td>
 
-💻 **Full Stack Developer**  
-⚛️ MERN Stack • Django • Flask
+<td align="center" width="50%">
+
+<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+
+### ☁️ DevOps
+
+🐳 Docker  
+⚙️ Jenkins  
+☸️ Kubernetes  
+☁️ AWS
 
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-☁️ **DevOps Learner**  
-🐳 Docker • Jenkins • Kubernetes • AWS
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+
+### 🤖 AI & ML
+
+🧠 YOLOv11  
+🔥 Flask  
+📊 Python  
+🎯 Computer Vision
 
 </td>
 
-<td>
+<td align="center">
 
-🤖 **AI & ML Enthusiast**  
-🧠 YOLOv11 • SAM • Computer Vision
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+
+### 🎓 Education
+
+🏫 KIET Group of Institutions
+
+💡 B.Tech CSE
+
+⚡ DSA Enthusiast
 
 </td>
+
 </tr>
 
-<tr>
-<td colspan="2" align="center">
-
-⚡ **Passionate about Open Source, DSA & Building Real-World Projects**
-
-</td>
-</tr>
 </table>
 
 ────────────────────────────
