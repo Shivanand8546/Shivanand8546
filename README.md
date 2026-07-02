@@ -81,55 +81,32 @@
 
 ────────────────────────────
 
+<h2 align="center">🛠 Tech Stack</h2>
+
 <p align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <!-- Background Circle -->
-    <circle
-      cx="60"
-      cy="60"
-      r="50"
-      fill="none"
-      stroke="#2d3748"
-      stroke-width="10"
-    />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,django,flask,docker,jenkins,git,github,linux,vscode&perline=5" />
+</p>
 
-    <!-- Progress Circle (90%) -->
-    <circle
-      cx="60"
-      cy="60"
-      r="50"
-      fill="none"
-      stroke="#00E5FF"
-      stroke-width="10"
-      stroke-linecap="round"
-      stroke-dasharray="314"
-      stroke-dashoffset="31"
-      transform="rotate(-90 60 60)"
-    />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-90%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-    <!-- Percentage -->
-    <text
-      x="60"
-      y="58"
-      text-anchor="middle"
-      fill="white"
-      font-size="20"
-      font-weight="bold"
-    >
-      90%
-    </text>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-75%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-70%25-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-65%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-60%25-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
 
-    <!-- Skill Name -->
-    <text
-      x="60"
-      y="82"
-      text-anchor="middle"
-      fill="#00E5FF"
-      font-size="12"
-    >
-      Java
-    </text>
-  </svg>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-85%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-70%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ────────────────────────────
