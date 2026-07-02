@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivanand Shukla</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Learner;AI+%26+Machine+Learning+Enthusiast;B.Tech+CSE+Student" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shivanand+Shukla;Full+Stack+Developer;DevOps+Learner;AI+%26+ML+Enthusiast"/>
 </p>
 💻 Full Stack Developer
 ☁️ DevOps Learner
