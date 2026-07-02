@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shivanand%20Shukla&fontSize=50" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Shivanand%20Shukla&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=22"
+    width="100%"
+  />
 </p>
 💻 Full Stack Developer
 ☁️ DevOps Learner
