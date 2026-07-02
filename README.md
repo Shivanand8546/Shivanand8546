@@ -10,12 +10,13 @@
 
 ────────────────────────────
 
-🚀 About Me
+## 🚀 About Me
 
-• Passionate about Full Stack Development
-• Learning DevOps (Jenkins, Docker, Kubernetes, AWS)
-• Interested in AI & Computer Vision
-• Solving DSA Problems
+- 🎓 B.Tech CSE Student @ KIET Group of Institutions
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently Learning Jenkins, Docker, Kubernetes & AWS
+- 🤖 Interested in AI, Machine Learning & Computer Vision
+- ⚡ Love solving DSA Problems
 
 ────────────────────────────
 
