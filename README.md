@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shivanand+Shukla;Full+Stack+Developer;DevOps+Learner;AI+%26+ML+Enthusiast"/>
-</p>
+https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=300&section=header&text=Shivanand%20Shukla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DevOps%20Learner%20|%20AI%20Enthusiast&descAlignY=60&descSize=22
 💻 Full Stack Developer
 ☁️ DevOps Learner
 🤖 AI & Machine Learning Enthusiast
