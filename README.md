@@ -10,13 +10,48 @@
 
 ────────────────────────────
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 B.Tech CSE Student @ KIET Group of Institutions
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently Learning Jenkins, Docker, Kubernetes & AWS
-- 🤖 Interested in AI, Machine Learning & Computer Vision
-- ⚡ Love solving DSA Problems
+<table align="center">
+<tr>
+<td>
+
+🎓 **B.Tech CSE Student**  
+📍 KIET Group of Institutions
+
+</td>
+<td>
+
+💻 **Full Stack Developer**  
+⚛️ MERN Stack • Django • Flask
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+☁️ **DevOps Learner**  
+🐳 Docker • Jenkins • Kubernetes • AWS
+
+</td>
+
+<td>
+
+🤖 **AI & ML Enthusiast**  
+🧠 YOLOv11 • SAM • Computer Vision
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+⚡ **Passionate about Open Source, DSA & Building Real-World Projects**
+
+</td>
+</tr>
+</table>
 
 ────────────────────────────
 
