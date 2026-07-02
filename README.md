@@ -4,10 +4,9 @@
     width="100%"
   />
 </p>
-💻 Full Stack Developer
-☁️ DevOps Learner
-🤖 AI & Machine Learning 
-🎓 B.Tech CSE Student @ KIET Group of Institutions
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;AI+%26+Machine+Learning+Enthusiast;B.Tech+CSE+Student+@+KIET" />
+</p>
 
 ────────────────────────────
 
