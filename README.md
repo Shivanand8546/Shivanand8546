@@ -3,7 +3,7 @@
 </p>
 💻 Full Stack Developer
 ☁️ DevOps Learner
-🤖 AI & Machine Learning Enthusiast
+🤖 AI & Machine Learning 
 🎓 B.Tech CSE Student @ KIET Group of Institutions
 
 ────────────────────────────
