@@ -271,10 +271,10 @@ ___________________________________________
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
-### 🌍 Visitors
+### 💭 My Coding Mood Today
 
 <p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Shivanand8546&theme=dark&columns=4&maxflags=12" alt="Visitor flags"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=D85A30&center=true&vCenter=true&width=500&lines=%E2%98%95+Fueled+by+chai%2C+debugging+life;%F0%9F%94%A5+On+a+coding+streak+today;%F0%9F%90%9B+Currently+hunting+a+stubborn+bug;%F0%9F%8C%99+Late+night+deploy+energy;%F0%9F%9A%80+Shipping+something+new;%F0%9F%A7%A0+Deep+in+a+YOLOv11+rabbit+hole" alt="Coding Mood"/>
 </p>
 📫 Connect with Me
 
