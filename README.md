@@ -276,7 +276,7 @@ ___________________________________________
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=D85A30&center=true&vCenter=true&width=500&lines=%E2%98%95+Fueled+by+chai%2C+debugging+life;%F0%9F%94%A5+On+a+coding+streak+today;%F0%9F%90%9B+Currently+hunting+a+stubborn+bug;%F0%9F%8C%99+Late+night+deploy+energy;%F0%9F%9A%80+Shipping+something+new;%F0%9F%A7%A0+Deep+in+a+YOLOv11+rabbit+hole" alt="Coding Mood"/>
 </p>
-📫 Connect with Me
+
 
 <h2 align="center"> 📫 Let's Connect</h2>
 
