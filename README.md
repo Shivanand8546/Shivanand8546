@@ -271,6 +271,11 @@ ___________________________________________
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
+### 🌍 Visitors
+
+<p align="center">
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Shivanand8546&theme=dark&columns=4&maxflags=12" alt="Visitor flags"/>
+</p>
 📫 Connect with Me
 
 LinkedIn
