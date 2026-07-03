@@ -254,11 +254,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanand8546&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 ────────────────────────────
 <h2 align="center">📜 Certifications</h2>
 
@@ -271,7 +266,7 @@
   <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
 </p>
 ___________________________________________
-<h2 align="center">Fun/Personality</h2>
+<h2 align="center">💬Fun/Personality</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
