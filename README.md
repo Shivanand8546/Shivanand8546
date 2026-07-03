@@ -246,18 +246,12 @@
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA_Switching_Routing_%26_Wireless-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA_Enterprise_Networking_Security_%26_Automation-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=1BA0D7&center=true&vCenter=true&width=600&lines=CCNA%3A+Introduction+to+Networks;CCNA%3A+Switching%2C+Routing+%26+Wireless;CCNA%3A+Enterprise+Networking+%26+Security;AWS+Certified+Solutions+Architect;AWS+Certified+AI+Practitioner;AWS+Certified+Cloud+Practitioner;Cybersecurity+Foundation;Data+Analytics+Essentials" alt="Certifications"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Foundation-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
 </p>
 ────────────────────────────
 
