@@ -241,7 +241,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shivanand8546/Shivanand8546/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
 ────────────────────────────
 
 📫 Connect with Me
