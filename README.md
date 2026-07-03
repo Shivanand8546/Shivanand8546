@@ -188,13 +188,10 @@
 </p>
 
 
-<h2 align="center">📈 Most Used Languages</h2>
+<h2 align="center">📈 Top Languages</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
-    height="180"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=radical&hide_border=true"/>
 </p>
 🐍 Contribution Snake
 
