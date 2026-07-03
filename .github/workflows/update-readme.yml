@@ -1,0 +1,33 @@
+name: Update README Top Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily midnight
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-lang-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Shivanand8546&layout=compact&langs_count=8&theme=tokyonight
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git commit -m "Update top languages card" || echo "No changes"
+          git push
