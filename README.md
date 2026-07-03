@@ -241,6 +241,24 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shivanand8546/Shivanand8546/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA_Switching_Routing_%26_Wireless-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA_Enterprise_Networking_Security_%26_Automation-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity_Foundation-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
 ────────────────────────────
 
 📫 Connect with Me
