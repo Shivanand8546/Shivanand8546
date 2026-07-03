@@ -234,7 +234,13 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
-🐍 Contribution Snake
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivanand8546/Shivanand8546/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ────────────────────────────
 
