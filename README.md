@@ -182,7 +182,12 @@
 
 ────────────────────────────
 
-📊 GitHub Stats
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivanand8546&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 🔥 Streak Stats
 📈 Top Languages
 🐍 Contribution Snake
