@@ -188,12 +188,12 @@
 </p>
 
 
-<h2 align="center">💻 Languages & Frameworks</h2>
+<h2 align="center">📈 Most Used Languages</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=donut&theme=tokyonight&hide_border=true"
-    height="220"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"
+    height="180"
   />
 </p>
 🐍 Contribution Snake
