@@ -271,6 +271,11 @@
   <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
 </p>
 ___________________________________________
+<h2 align="center">Fun/Personality</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
 📫 Connect with Me
 
 LinkedIn
