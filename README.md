@@ -110,28 +110,76 @@
 </p>
 
 ────────────────────────────
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<table>
+<tr>
 
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/🦷%20Dental%20X--ray%20Detection-AI%20Project-blue?style=for-the-badge"/>
-</a>
+<td width="50%" valign="top">
 
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/🌐%20ISP%20Automation-Full%20Stack-success?style=for-the-badge"/>
-</a>
+### 🦷 Dental X-ray Disease Detection
 
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/🎉%20Event%20Management-Django-important?style=for-the-badge"/>
-</a>
+> AI-powered Dental Disease Detection using **YOLOv11 + SAM**
 
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/💼%20Portfolio-React-orange?style=for-the-badge"/>
-</a>
+**⚡ Tech Stack**
 
-</p>
+`React` `Node.js` `Express` `MongoDB`
+`YOLOv11` `Flask` `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 ISP Automation System
+
+> Complete ISP Management & Billing Solution
+
+**⚡ Tech Stack**
+
+`React` `Node.js`
+`Express`
+`MongoDB`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎉 Event Management System
+
+> Event Booking & Management Platform
+
+**⚡ Tech Stack**
+
+`Django`
+`Python`
+`SQLite`
+`Bootstrap`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+
+> Personal Portfolio with Responsive Design
+
+**⚡ Tech Stack**
+
+`React`
+`JavaScript`
+`CSS`
+`GitHub Pages`
+
+</td>
+
+</tr>
+
+</table>
+
 ────────────────────────────
 
 📊 GitHub Stats
