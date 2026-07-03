@@ -263,6 +263,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanand8546&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 ────────────────────────────
 
 📫 Connect with Me
