@@ -278,7 +278,16 @@ ___________________________________________
 </p>
 📫 Connect with Me
 
-LinkedIn
-LeetCode
-Portfolio
-Email
+<h2 align="center"> 📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivnand21">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shivanand2124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shivanand8546">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
