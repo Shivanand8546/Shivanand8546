@@ -257,7 +257,11 @@
 ### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivanand8546/Shivanand8546/main/metrics.svg" alt="GitHub Metrics"/>
+  <img height="200em" src="https://github-readme-stats-opal-seven-63.vercel.app/api/top-langs/?username=Shivanand8546&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanand8546&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 ────────────────────────────
 
