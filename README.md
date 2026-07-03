@@ -188,10 +188,10 @@
 </p>
 
 
-### 📊 Top Languages
+### 📊 Top Languages (Dynamic)
 
 <p align="center">
-  <img src="https://github-readme-stats-opal-seven-63.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-opal-seven-63.vercel.app/api/top-langs/?username=Shivanand8546&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 🐍 Contribution Snake
 
