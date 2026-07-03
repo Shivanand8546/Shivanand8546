@@ -187,12 +187,15 @@
   <img src="https://streak-stats.demolab.com?user=Shivanand8546&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-## 🔥 GitHub Streak
+
+<h2 align="center">💻 Languages & Frameworks</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivanand8546&theme=github-dark-blue" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=donut&theme=tokyonight&hide_border=true"
+    height="220"
+  />
 </p>
-📈 Top Languages
 🐍 Contribution Snake
 
 ────────────────────────────
