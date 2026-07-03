@@ -253,6 +253,12 @@
   <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
 </p>
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivanand8546/Shivanand8546/main/metrics.svg" alt="GitHub Metrics"/>
+</p>
 ────────────────────────────
 
 📫 Connect with Me
