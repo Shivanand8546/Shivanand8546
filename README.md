@@ -260,7 +260,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 ────────────────────────────
-### 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=1BA0D7&center=true&vCenter=true&width=600&lines=CCNA%3A+Introduction+to+Networks;CCNA%3A+Switching%2C+Routing+%26+Wireless;CCNA%3A+Enterprise+Networking+%26+Security;AWS+Certified+Solutions+Architect;AWS+Certified+AI+Practitioner;AWS+Certified+Cloud+Practitioner;Cybersecurity+Foundation;Data+Analytics+Essentials" alt="Certifications"/>
