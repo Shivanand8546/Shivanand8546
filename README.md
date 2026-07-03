@@ -243,16 +243,6 @@
 </p>
 
 
-### 📜 Certifications
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=1BA0D7&center=true&vCenter=true&width=600&lines=CCNA%3A+Introduction+to+Networks;CCNA%3A+Switching%2C+Routing+%26+Wireless;CCNA%3A+Enterprise+Networking+%26+Security;AWS+Certified+Solutions+Architect;AWS+Certified+AI+Practitioner;AWS+Certified+Cloud+Practitioner;Cybersecurity+Foundation;Data+Analytics+Essentials" alt="Certifications"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
-</p>
 
 ### 📈 GitHub Metrics
 
@@ -270,7 +260,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 ────────────────────────────
+### 📜 Certifications
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=1BA0D7&center=true&vCenter=true&width=600&lines=CCNA%3A+Introduction+to+Networks;CCNA%3A+Switching%2C+Routing+%26+Wireless;CCNA%3A+Enterprise+Networking+%26+Security;AWS+Certified+Solutions+Architect;AWS+Certified+AI+Practitioner;AWS+Certified+Cloud+Practitioner;Cybersecurity+Foundation;Data+Analytics+Essentials" alt="Certifications"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Palo_Alto_Cybersecurity-00C0E8?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
+</p>
+___________________________________________
 📫 Connect with Me
 
 LinkedIn
