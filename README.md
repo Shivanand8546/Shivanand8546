@@ -188,10 +188,8 @@
 </p>
 
 
-### 📊 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Shivanand8546&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 🐍 Contribution Snake
 
