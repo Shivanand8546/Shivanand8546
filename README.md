@@ -187,7 +187,11 @@
   <img src="https://streak-stats.demolab.com?user=Shivanand8546&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-🔥 Streak Stats
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivanand8546&theme=github-dark-blue" />
+</p>
 📈 Top Languages
 🐍 Contribution Snake
 
