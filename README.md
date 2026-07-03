@@ -188,11 +188,52 @@
 </p>
 
 
-### 📊 Top Languages (Dynamic)
+### 📊 Top Languages 
 
 <p align="center">
   <img src="https://github-readme-stats-opal-seven-63.vercel.app/api/top-langs/?username=Shivanand8546&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
+
+
+### 🛠️ Frameworks, Tools & Databases
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%"/>
+
+**Frameworks & Libraries**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask&theme=dark&perline=5" alt="frameworks"/>
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark&perline=2" alt="databases"/>
+</p>
+
+**Dev Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,jenkins,vscode&theme=dark&perline=5" alt="tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 🐍 Contribution Snake
 
 ────────────────────────────
