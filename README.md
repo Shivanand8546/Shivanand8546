@@ -291,3 +291,15 @@ ___________________________________________
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+### 🌐 Portfolio
+
+<p align="center">
+  <a href="https://shivanandshukla.me">
+    <img src="https://img.shields.io/badge/🌍_Check_out_my_Portfolio-shivanandshukla.me-6E56CF?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Projects, resume, and more — all in one place</sub>
+</p>
