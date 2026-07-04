@@ -303,3 +303,17 @@ ___________________________________________
 <p align="center">
   <sub>Projects, resume, and more — all in one place</sub>
 </p>
+
+---
+
+<p align="center">⭐ If you liked what you saw, drop a star on my repos!</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=6E56CF&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Shivanand+Shukla" alt="footer"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shivanand8546"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivnand21"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shivanand2124@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
