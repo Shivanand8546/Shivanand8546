@@ -182,11 +182,9 @@
 
 ────────────────────────────
 <h2 align="center">🔥 GitHub Streak</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivanand8546&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Shivanand8546&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
-
 
 ### 📊 Top Languages 
 
