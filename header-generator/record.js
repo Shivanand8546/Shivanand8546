@@ -15,9 +15,13 @@ const fs = require('fs');
     ]
   });
   const page = await browser.newPage();
+  page.on('console', m => console.log('PAGE LOG:', m.text()));
+  page.on('pageerror', e => console.log('PAGE ERROR:', e.message));
+  page.on('requestfailed', r => console.log('REQUEST FAILED:', r.url()));
+
   await page.setViewport({ width: 850, height: 300, deviceScaleFactor: 1 });
   await page.goto('file://' + path.resolve('index.html') + '?record');
-  await new Promise(r => setTimeout(r, 3000));
+  await page.waitForFunction('typeof window.setTime === "function"', { timeout: 20000 });
 
   const FPS = 20, SECONDS = 6, total = FPS * SECONDS;
   for (let i = 0; i < total; i++) {
